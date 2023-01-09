@@ -214,7 +214,7 @@ namespace UAS_079
 
 /*jawaban =
  2. saya menggunakan algoritma = singly link list dan double link list
- 3. stack = double link list dan circular link list
+ 3. stack = POP dan Push
  4. ditambahkan diakhir = REAR
 dihapus diakhir = FRONT
  5. a. kedalaman = 5 Level
